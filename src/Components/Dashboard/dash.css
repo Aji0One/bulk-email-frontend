@@ -1,0 +1,103 @@
+.first-section{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin: 30px 20px;
+    font-size: 22px;
+}
+.fs-content{
+    width: 53%;
+}
+.fs-button{
+    font-size: 16px;
+}
+.fs-button>a{
+    color: black;
+}
+.fs-button :hover{
+    background-color: rgb(55, 140, 237);
+    color: azure;
+}
+.fs-button > Button{
+    background-color: rgb(6, 86, 198);
+    font-size: 14px;
+   color: wheat
+}
+.fs-img-col{
+    margin-top: 45px;
+    margin-right: 50px;
+}
+.fs-img{
+    height: 320px;
+    width: 340px;
+    border-radius: 10px;
+}
+.second-section{
+    margin: 10px 20px;
+   
+    background-color: rgba(170, 239, 243, 0.97);
+    padding: 20px;
+    text-align: center;
+}
+
+.ss-heading{
+    font-size: 19px;
+    margin: 15px;
+}
+
+.ss-button{
+    
+   
+    color: black;
+    margin-top: 30px;
+}
+
+.ss-background{
+    background-color: rgba(170, 239, 243, 0.97);
+}
+.brands{
+    margin: 20px;
+}
+
+.brand-details{
+   display: flex;
+    width: 60%;
+    height: 230px;
+    font-family: 'Times New Roman', Times, serif;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    margin: 0% 20px;
+
+}
+
+.brand-card{
+    display: flex;
+    width: 255px;
+    height: 225px;
+    margin: 0 20px;
+}
+
+.third-section{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin: 30px 20px;
+    font-size: 20px;
+}
+
+.ts-content{
+    width: 53%;
+    margin-right: 30px;
+}
+
+
+
+.ts-img-col{
+    margin-left: 50px;
+}
+.ts-img{
+    height: 320px;
+    width: 340px;
+    border-radius: 10px;
+}
